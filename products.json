@@ -1,0 +1,65 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Blue Running Shoes",
+    "category": "Footwear",
+    "price": 59.99,
+    "sizes_in_stock": {"7": 5, "8": 0, "9": 12, "10": 3},
+    "description": "Lightweight running shoes with breathable mesh upper.",
+    "tags": ["shoes", "running", "sports"]
+  },
+  {
+    "product_id": "P002",
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 89.99,
+    "sizes_in_stock": {"one_size": 25},
+    "description": "Over-ear noise-cancelling headphones, 30-hour battery life.",
+    "tags": ["audio", "electronics", "accessories"]
+  },
+  {
+    "product_id": "P003",
+    "name": "14-inch Laptop Sleeve",
+    "category": "Accessories",
+    "price": 19.99,
+    "sizes_in_stock": {"14in": 40},
+    "description": "Padded protective sleeve for laptops up to 14 inches.",
+    "tags": ["laptop", "accessories", "bags"]
+  },
+  {
+    "product_id": "P004",
+    "name": "USB-C Multiport Hub",
+    "category": "Electronics",
+    "price": 34.99,
+    "sizes_in_stock": {"one_size": 60},
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    "tags": ["laptop", "accessories", "electronics"]
+  },
+  {
+    "product_id": "P005",
+    "name": "Denim Jacket",
+    "category": "Apparel",
+    "price": 74.99,
+    "sizes_in_stock": {"S": 8, "M": 10, "L": 6, "XL": 2},
+    "description": "Classic fit denim jacket, machine washable.",
+    "tags": ["jacket", "apparel", "outerwear"]
+  },
+  {
+    "product_id": "P006",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 24.99,
+    "sizes_in_stock": {"one_size": 100},
+    "description": "Ergonomic wireless mouse with silent click buttons.",
+    "tags": ["laptop", "accessories", "electronics"]
+  },
+  {
+    "product_id": "P007",
+    "name": "15-inch Business Laptop",
+    "category": "Electronics",
+    "price": 899.00,
+    "sizes_in_stock": {"one_size": 15},
+    "description": "15-inch laptop, 16GB RAM, 512GB SSD, ideal for work and study.",
+    "tags": ["laptop", "electronics", "computers"]
+  }
+]

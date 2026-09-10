@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "C100",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "purchase_history": ["P005", "P007"]
+  },
+  {
+    "customer_id": "C200",
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@example.com",
+    "purchase_history": ["P002"]
+  }
+]

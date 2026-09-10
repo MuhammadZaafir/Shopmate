@@ -1,0 +1,41 @@
+[
+  {
+    "order_id": "4521",
+    "customer_id": "C100",
+    "items": [
+      {"product_id": "P005", "name": "Denim Jacket", "size": "M", "qty": 1, "price": 74.99}
+    ],
+    "status": "Shipped",
+    "carrier": "BlueDart",
+    "tracking_number": "BD998877",
+    "order_date": "2026-09-01",
+    "estimated_delivery": "2026-09-12",
+    "return_window_days": 30
+  },
+  {
+    "order_id": "4522",
+    "customer_id": "C100",
+    "items": [
+      {"product_id": "P007", "name": "15-inch Business Laptop", "size": "one_size", "qty": 1, "price": 899.00}
+    ],
+    "status": "Delivered",
+    "carrier": "FedEx",
+    "tracking_number": "FX112233",
+    "order_date": "2026-08-28",
+    "estimated_delivery": "2026-09-02",
+    "return_window_days": 30
+  },
+  {
+    "order_id": "4530",
+    "customer_id": "C200",
+    "items": [
+      {"product_id": "P002", "name": "Wireless Bluetooth Headphones", "size": "one_size", "qty": 1, "price": 89.99}
+    ],
+    "status": "Out for Delivery",
+    "carrier": "DTDC",
+    "tracking_number": "DT556677",
+    "order_date": "2026-09-08",
+    "estimated_delivery": "2026-09-10",
+    "return_window_days": 30
+  }
+]
